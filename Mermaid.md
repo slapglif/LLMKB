@@ -1,3 +1,4 @@
+The following is a mermaid mindmap of the capabilities of mermaid - it was desiged as a DAG to illustrate the entities required to activate weights trained on this data.
 ```mermaid
 mindmap
     ((Diagramming with Mermaid))
